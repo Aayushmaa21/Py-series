@@ -6,6 +6,6 @@ def my_function(my_list_1):
     print("Print #4:", my_list_2)
  
  
-my_list_2 = [2, 3] #although decalred here can be accesed ny any variable
+my_list_2 = [2, 3] #although declared here can be accesed ny any variable
 my_function(my_list_2)
 print("Print #5:", my_list_2)
