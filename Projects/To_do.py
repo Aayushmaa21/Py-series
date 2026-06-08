@@ -10,7 +10,7 @@ while True:
     choice = int(input("Enter Your Choice : "))
 
     if choice == 1:
-        task = input("Enter Your Choice:")
+        task = input("Enter Your Task: ")
         my_task.append(task)
         print("Task Added")
 
