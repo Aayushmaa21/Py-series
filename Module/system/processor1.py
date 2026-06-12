@@ -7,3 +7,7 @@ from platform import version
 print(version())
 
 
+
+import os
+dir(os)
+print(dir(os))
