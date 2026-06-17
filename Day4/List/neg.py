@@ -1,0 +1,8 @@
+#Negative Index
+numbers = [111, 7, 2, 1]
+print(numbers[-1])
+print(numbers[-2])
+print(numbers[-3])
+
+#can be used in slicing too
+

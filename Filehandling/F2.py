@@ -1,0 +1,5 @@
+f = open("aayu.txt","w")
+f.write("I am learning python")
+f = open("aayu.txt","w")
+f.append("I will start autonomation tommorow")
+f.close()
